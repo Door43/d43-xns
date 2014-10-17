@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xns:home|Door43 (xns)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xns|d43-xns repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xns/archive/master.zip|d43-xns.zip]]
+
+**Recent Changes**
+{{changes>ns = xns}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xns|Ethnologue data]]
+
